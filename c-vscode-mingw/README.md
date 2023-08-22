@@ -1,10 +1,10 @@
 # c-vscode-mingw
 
-[Raylib 4.2](https://github.com/raysan5/raylib) Template C (C17 64 bits) for Visual Studio Code & MinGW-w64
+[Raylib 4.5](https://github.com/raysan5/raylib) Template C (C17 64 bits) for Visual Studio Code & MinGW-w64
 
 ## 1. Download and extract (if needed)
 * **MinGW64** : MSVCRT runtime / Win64  ([download](https://winlibs.com))
-* **Raylib 4.2** : raylib-4.2.0_win64_mingw-w64.zip ([download](https://github.com/raysan5/raylib/releases/tag/4.2.0))
+* **Raylib 4.5** : raylib-4.5.0_win64_mingw-w64.zip ([download](https://github.com/raysan5/raylib/releases/tag/4.5.0))
 
 ## 2. Create environments variables
 * **MINGW64** : Mingw64 folder - (e.g. : %MINGW64% = D:\Apps\mingw64)
